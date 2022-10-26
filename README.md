@@ -44,5 +44,8 @@ You will be assesed on the overall production quality of your work and we will l
 
 ## How do I submit my code challenge?
 
-Clone this repository and once you have completed the task, push it to a public repository and notify your recruiter with the link once it is ready for review.
+Clone the github test repository and push it to a private repository. Once complete, add the below github collaborators to the private repository so that we may review the test.
+
+- joshua-hayes
+- ramosjacc
 
